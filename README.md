@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @farhaannishtar
 - 👀 I’m interested in web development and blockchain.
-- 🌱 I’m currently learning Node.JS and React
-- 💞️ I’m looking to collaborate on Node.JS applications
+- 🌱 I’m currently learning React and Node.JS
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
 <!---
