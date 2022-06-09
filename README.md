@@ -8,5 +8,6 @@
 farhaannishtar/farhaannishtar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-'
+
 (Add 1-2 sentences / facts)
+(Add descriptions for each pinned project)
