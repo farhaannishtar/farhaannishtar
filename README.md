@@ -6,8 +6,8 @@
 
 I'm fascinated with web technology and how it can be used to make the world more connected.
 
-I love dancing. Especially salsa!
 
+In my personal life, I enjoy dancing, cooking, basketball and spending time with loved ones.
 <!---
 farhaannishtar/farhaannishtar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
