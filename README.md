@@ -8,7 +8,7 @@ I'm fascinated with web technology and how it can be used to make the world more
 
 <h3 align="center">A passionate fullstack developer from New York City</h3>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from New York City</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
