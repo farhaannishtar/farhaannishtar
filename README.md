@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @farhaannishtar
 - 👀 I’m interested in web development and crypto.
-- 🌱 I’m currently learning React and Node.JS
+- 🌱 I’m currently learning React, Tailwind and Next.js
 - 💞️ I’m looking to collaborate on React.js projects 
 - 📫 How to reach me farhaannishtar@gmail.com
 
 I'm fascinated with web technology and how it can be used to make the world more connected.
 
-<h3 align="center">A passionate fullstack developer from New York City</h3>
+<h3 align="center">A passionate Frontend developer from New York City</h3>
 
 <p align="left"></p>
 
