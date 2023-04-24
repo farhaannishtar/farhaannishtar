@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @farhaannishtar
-- 👀 I’m interested in TypeScript and Next.js.
+- 👀 I’m interested in TypeScript and Next.js and ChatGPT's API.
 - 🌱 I’m currently learning React, Tailwind and Next.js
 - 💞️ I’m looking to collaborate on React.js projects 
 - 📫 How to reach me farhaannishtar@gmail.com
