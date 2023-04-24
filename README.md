@@ -6,7 +6,7 @@
 
 I'm fascinated with web technology and how it can be used to make the world more connected.
 
-<h3 align="center">A passionate Frontend developer from New York City</h3>
+<h3 align="center">A passionate Full Stack developer from New York City</h3>
 
 <p align="left"></p>
 
