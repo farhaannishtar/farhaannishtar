@@ -15,7 +15,7 @@ I'm fascinated with web technology and how it can be used to make the world more
 
 
 
-In my personal life, I enjoy running, cooking, basketball and spending time with loved ones.
+In my personal life, I enjoy running, dancing, basketball and spending time with loved ones.
 <!---
 farhaannishtar/farhaannishtar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
