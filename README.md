@@ -13,7 +13,7 @@ I'm fascinated with web technology and how it can be used to make the world more
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,vscode,vercel,firebase,mongodb,postgres,supabase,postman,git," />
   </a>
 </p>
 
