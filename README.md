@@ -12,7 +12,7 @@ I'm fascinated with web technology and how it can be used to make the world more
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  (https://skillicons.dev/icons?i=js,ts,html,css,wasm)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </p>
 
 
