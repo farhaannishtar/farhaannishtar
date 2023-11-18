@@ -12,7 +12,8 @@ I'm fascinated with web technology and how it can be used to make the world more
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  ![image](https://github.com/farhaannishtar/farhaannishtar/assets/89179469/2ff147a0-64de-48b9-a7c1-b03448683aeb)
+
 </p>
 
 
