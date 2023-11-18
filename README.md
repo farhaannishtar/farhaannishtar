@@ -11,10 +11,7 @@ I'm fascinated with web technology and how it can be used to make the world more
 <p align="left"></p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  ![image](https://github.com/farhaannishtar/farhaannishtar/assets/89179469/2ff147a0-64de-48b9-a7c1-b03448683aeb)
-
-</p>
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 
 
