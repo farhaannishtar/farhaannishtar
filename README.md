@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @farhaannishtar
-- 👀 I’m interested in TypeScript, Next.js and Crypto
+- 👀 I’m interested in TypeScript, Next.js and backend engineering
 - 🌱 I’m currently learning React, Tailwind, Next.js and Supabase
 - 💞️ I’m looking to collaborate on React.js projects 
 - 📫 How to reach me farhaannishtar@gmail.com
