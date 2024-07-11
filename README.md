@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on React.js projects 
 - 📫 How to reach me farhaannishtar@gmail.com
 
-I'm fascinated with web technology and how it can be used to make the world more connected.
+I'm fascinated with web technology and how it can be used to connect and create more value in the world.
 
 <h3 align="center">A passionate Full Stack developer from New York City</h3>
 
